@@ -1,0 +1,24 @@
+{
+  "n_batalhas": 33000,
+  "n_decisivas": 23294,
+  "n_modelos": 20,
+  "top3_bt": [
+    {
+      "model": "gpt-4",
+      "bt_rating_elo": 1251.118720143342
+    },
+    {
+      "model": "claude-v1",
+      "bt_rating_elo": 1185.1072043695856
+    },
+    {
+      "model": "claude-instant-v1",
+      "bt_rating_elo": 1161.9435237073587
+    }
+  ],
+  "pares_n_ge_20": 176,
+  "pct_sig_brut": 79.0,
+  "pct_sig_fdr": 78.4,
+  "kendall_tau_medio_juizes": 0.406396667469052,
+  "cross_validation_overlap": 3
+}

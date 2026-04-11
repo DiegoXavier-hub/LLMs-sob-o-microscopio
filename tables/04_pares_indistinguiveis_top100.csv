@@ -1,0 +1,7 @@
+benchmark,pares_total,pares_indistinguiveis,pct
+IFEval,4950,2992,60.4
+BBH,4950,1597,32.3
+MATH Lvl 5,4950,1690,34.1
+GPQA,4950,3511,70.9
+MuSR,4950,2987,60.3
+MMLU-PRO,4950,1424,28.8

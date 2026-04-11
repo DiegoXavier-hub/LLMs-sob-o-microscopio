@@ -1,0 +1,43 @@
+benchmark,fullname,p_hat,vezes_top1,prob_top1_pct
+IFEval,meta-llama/Llama-3.3-70B-Instruct,0.8997581971391463,911,91.1
+IFEval,MaziyarPanahi/calme-2.1-qwen2.5-72b,0.866236031507511,36,3.6
+IFEval,Qwen/Qwen2.5-72B-Instruct,0.863837949972739,31,3.1
+IFEval,huihui-ai/Qwen2.5-72B-Instruct-abliterated,0.8592667455684251,12,1.2
+IFEval,ssmits/Qwen2.5-95B-Instruct,0.8431051831363006,3,0.3
+IFEval,rubenroy/Gilgamesh-72B,0.8486006019583593,2,0.2
+IFEval,raphgg/test-2.5-72B,0.8437047035199936,1,0.1
+IFEval,zetasepic/Qwen2.5-32B-Instruct-abliterated-v2,0.8334131216283904,1,0.1
+IFEval,mistralai/Mistral-Large-Instruct-2411,0.8400577135334246,1,0.1
+IFEval,Qwen/Qwen2.5-32B-Instruct,0.8346121623957765,1,0.1
+BBH,JungZoona/T3Q-qwen2.5-14b-v1.0-e3,0.6546659667305961,499,49.9
+BBH,JungZoona/T3Q-Qwen2.5-14B-Instruct-1M-e3,0.6546659667305961,492,49.2
+BBH,shuttleai/shuttle-3,0.6405301565117444,8,0.8
+BBH,Sakalti/ultiima-72B-v1.5,0.6343820605892027,1,0.1
+MATH Lvl 5,Qwen/Qwen2.5-32B-Instruct,0.6253776435045317,301,30.1
+MATH Lvl 5,Saxo/Linkbricks-Horizon-AI-Avengers-V6-32B,0.622356495468278,234,23.4
+MATH Lvl 5,maldv/Awqward2.5-32B-Instruct,0.6231117824773413,220,22.0
+MATH Lvl 5,Saxo/Linkbricks-Horizon-AI-Avengers-V3-32B,0.6178247734138973,144,14.4
+MATH Lvl 5,tanliboy/lambda-qwen2.5-32b-dpo-test,0.6102719033232629,48,4.8
+MATH Lvl 5,Saxo/Linkbricks-Horizon-AI-Avengers-V1-32B,0.6027190332326284,23,2.3
+MATH Lvl 5,huihui-ai/Qwen2.5-72B-Instruct-abliterated,0.6012084592145015,12,1.2
+MATH Lvl 5,Qwen/Qwen2.5-72B-Instruct,0.5981873111782477,7,0.7
+MATH Lvl 5,ehristoforu/qwen2.5-test-32b-it,0.5974320241691843,6,0.6
+MATH Lvl 5,CombinHorizon/huihui-ai-abliterated-Qwen2.5-32B-Inst-BaseMerge-TIES,0.5944108761329305,2,0.2
+GPQA,mistralai/Mistral-Large-Instruct-2411,0.2494407158836689,388,38.8
+GPQA,OpenBuddy/openbuddy-llama3.3-70b-v24.1-131k,0.24608501118568235,290,29.0
+GPQA,JungZoona/T3Q-qwen2.5-14b-v1.0-e3,0.22259507829977632,56,5.6
+GPQA,JungZoona/T3Q-Qwen2.5-14B-Instruct-1M-e3,0.22259507829977632,51,5.1
+GPQA,newsbang/Homer-v1.0-Qwen2.5-72B,0.2214765100671141,47,4.7
+GPQA,Sakalti/ultiima-72B,0.2192393736017897,41,4.1
+GPQA,Sakalti/ultiima-72B-v1.5,0.21812080536912756,33,3.3
+GPQA,shuttleai/shuttle-3,0.21588366890380314,21,2.1
+GPQA,EVA-UNIT-01/EVA-Qwen2.5-72B-v0.2,0.21140939597315436,20,2.0
+GPQA,MaziyarPanahi/calme-2.2-rys-78b,0.20917225950782994,11,1.1
+MuSR,JungZoona/T3Q-qwen2.5-14b-v1.0-e3,0.38688020833333325,316,31.6
+MuSR,JungZoona/T3Q-Qwen2.5-14B-Instruct-1M-e3,0.38688020833333325,300,30.0
+MuSR,MaziyarPanahi/calme-3.2-instruct-78b,0.3852890624999999,291,29.1
+MuSR,dfurman/CalmeRys-78B-Orpo-v0.1,0.36372135416666657,46,4.6
+MuSR,MaziyarPanahi/calme-3.1-instruct-78b,0.3649947916666666,44,4.4
+MuSR,MaziyarPanahi/calme-2.4-rys-78b,0.3456614583333333,3,0.3
+MMLU-PRO,MaziyarPanahi/calme-3.2-instruct-78b,0.7003361406619385,988,98.8
+MMLU-PRO,MaziyarPanahi/calme-3.1-instruct-78b,0.6872229609929079,12,1.2

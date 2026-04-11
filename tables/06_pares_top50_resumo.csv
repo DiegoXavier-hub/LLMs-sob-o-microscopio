@@ -1,0 +1,7 @@
+benchmark,n_pares,pct_sig_brut,pct_sig_fdr,cohens_h_mediano
+BBH,1225,69.39,67.02,0.06
+GPQA,1225,33.22,19.84,0.09
+IFEval,1225,50.37,45.22,0.12
+MATH Lvl 5,1225,76.24,75.43,0.19
+MMLU-PRO,1225,75.27,73.63,0.06
+MuSR,1225,59.27,54.86,0.13

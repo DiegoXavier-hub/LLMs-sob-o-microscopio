@@ -1,0 +1,21 @@
+{
+  "n_tiers": 2,
+  "maior_tier_size": 46,
+  "tier1_size": 4,
+  "tier1_membros": [
+    "MaziyarPanahi/calme-3.2-instruct-78b",
+    "MaziyarPanahi/calme-3.1-instruct-78b",
+    "dfurman/CalmeRys-78B-Orpo-v0.1",
+    "MaziyarPanahi/calme-2.4-rys-78b"
+  ],
+  "kendall_tau_mediano": -0.07857232746979072,
+  "pesos_composito": {
+    "IFEval": 0.0319,
+    "BBH": 0.2874,
+    "MATH Lvl 5": 0.0583,
+    "GPQA": 0.0366,
+    "MuSR": 0.0579,
+    "MMLU-PRO": 0.5279
+  },
+  "overlap_top100": 68
+}

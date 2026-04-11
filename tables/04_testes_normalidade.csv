@@ -1,0 +1,7 @@
+benchmark,n,skew,kurtosis,dagostino_stat,p_value,rejeita_normalidade
+IFEval,4496,0.046,-1.026,1169.8,9.36e-255,True
+BBH,4496,-0.038,-0.79,361.5,3.22e-79,True
+MATH Lvl 5,4496,1.12,0.303,645.0,8.78e-141,True
+GPQA,4496,0.893,0.393,470.4,7.07e-103,True
+MuSR,4496,0.467,0.122,151.2,1.49e-33,True
+MMLU-PRO,4496,-0.112,-0.765,330.5,1.72e-72,True

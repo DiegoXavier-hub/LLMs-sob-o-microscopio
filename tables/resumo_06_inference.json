@@ -1,0 +1,13 @@
+{
+  "n_pares_por_bench": 1225,
+  "pct_sig_brut_medio": 60.62666666666666,
+  "pct_sig_fdr_medio": 56.0,
+  "n_necessario_top1_vs_top10": {
+    "IFEval": 30181,
+    "BBH": 1519,
+    "MATH Lvl 5": 98,
+    "GPQA": 789,
+    "MuSR": 75,
+    "MMLU-PRO": 131
+  }
+}

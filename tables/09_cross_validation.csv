@@ -1,0 +1,4 @@
+arena_model,ldb_model,arena_wr,arena_n,ldb_average
+vicuna-13b,lmsys/vicuna-13b-v1.3,0.6325901328273245,4216,10.435533675653645
+wizardlm-13b,WizardLMTeam/WizardLM-13B-V1.0,0.556135770234987,766,4.546091523510591
+dolly-v2-12b,databricks/dolly-v2-12b,0.229296066252588,1932,6.3704357034963754

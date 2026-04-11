@@ -1,0 +1,20 @@
+{
+  "n_modelos_ml": 4486,
+  "regressao_top": {
+    "modelo": "GradientBoosting",
+    "rmse_test": 5.7302389990586295,
+    "mae_test": 3.847456811374272,
+    "r2_test": 0.7095963039150308,
+    "r2_train": 0.7938840490358158
+  },
+  "k_clusters": 8,
+  "silhouette_max": 0.3672920700409076,
+  "n_outliers": 90,
+  "top5_features": {
+    "org_top_JayHyeon": 0.13689804077148438,
+    "org_top_sometimesanotion": 0.07181356102228165,
+    "log_params": 0.05976763367652893,
+    "architecture_Qwen2ForCausalLM": 0.04548823833465576,
+    "org_top_DreadPoor": 0.043733637779951096
+  }
+}
